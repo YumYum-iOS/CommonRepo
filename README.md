@@ -14,6 +14,8 @@
 🔧 퍼블리싱하는 날을 제외한 나머지 날에는 각자 구현하고 싶은 기능 또는 공부하고 싶은 내용을 3개 선정해서 데일리하게 진행한다.
   1. 이 경우 미리 다룰 주제를 해당 레포의 본인 테이블에 미리 기록해놓는다.
   2. 구현한 내용에 대해서는 데일리하게 피드백 및 공유하도록 한다.
+  
+👉 프로젝트 구조까지는 제한을 두지 않겠습니다~ 자유롭게, 미적감각있게 만들면 좋을듯! 서로 눈팅도 맘껏 (원하면 이것도 통일...)
 ```
 
 <br />
@@ -24,7 +26,7 @@
   <img src="https://github.com/YumYum-iOS/CommonRepo/blob/main/images/pinterest.jpeg" width="250px" />
   <img src="https://github.com/YumYum-iOS/CommonRepo/blob/main/images/instagram.png" width="250px" />
   
-**📝 각자 공부할 기능**  `월`·`화`·`수`  
+**📝 각자 공부할 기능**  `월`·`수`·`금`  
 
 ```
 3개씩 선정하고 추가하시고 각자 레포에 돌아가 기능 구현하시면 됩니다 ~
